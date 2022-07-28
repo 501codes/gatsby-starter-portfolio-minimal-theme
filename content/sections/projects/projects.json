@@ -6,8 +6,8 @@
       "title": "Maine State Board of Education",
       "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "src": "../../images/headshot2.jpg",
+        "alt": "Headshot",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
       "links": [
@@ -28,7 +28,7 @@
       "description": "The Google Play Change the Game Design Challenge invited youth from around the country to submit innovative mobile game ideas. I was one of around 40 winners selected for the Class of 2021, and had the opportunity to participate in a Girls Make Games mobile gaming workshop and a year-long Mentorship Program hosted by The Game Awards. Working with my mentor from the Future Class of TGA has been an incredible and eye-opening experience to learn more about a future the game industry.",
       "image": {
         "src": "../../images/gamechange.png",
-        "alt": "Extendable Layout"
+        "alt": "Change the Game"
       },
       "links": [
         {
