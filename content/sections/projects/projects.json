@@ -6,9 +6,9 @@
       "title": "Maine State Board of Education",
       "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/52205428635_da39edfde6_o.jpg",
+        "alt": "Headshot",
+        "linkTo": "https://www.linkedin.com/in/ryanhafener"
       },
       "links": [
         {
@@ -29,6 +29,7 @@
       "image": {
         "src": "../../images/gamechange.png",
         "alt": "Extendable Layout"
+        "linkTo": "https://play.google.com/about/changethegame/designchallenge2021/"
       },
       "links": [
         {
@@ -39,7 +40,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
