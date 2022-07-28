@@ -29,7 +29,7 @@
       "image": {
         "src": "../../images/gamechange.png",
         "alt": "Extendable Layout"
-        "linkTo": "https://play.google.com/about/changethegame/designchallenge2021/"
+        "linkTo": "https://play.google.com/about/changethegame/designchallenge2021"
       },
       "links": [
         {
@@ -40,7 +40,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
