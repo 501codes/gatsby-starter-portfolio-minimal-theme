@@ -32,8 +32,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Sustainability", "url": "/sustainability
-        " }
+        { "label": "Sustainability", "url": "/sustainability" }
       ]
     },
     "featureToggles": {
