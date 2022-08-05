@@ -6,7 +6,7 @@ export default function ImprintPage() {
     <>
       <Seo title="Sustainability" useTitleTemplate={true} noIndex={true} />
       <Page>
-        <LegalSection sectionId="Sustainability" heading="Sustainability" />
+        <LegalSection sectionId="sustainability" heading="Sustainability" />
       </Page>
     </>
   );
