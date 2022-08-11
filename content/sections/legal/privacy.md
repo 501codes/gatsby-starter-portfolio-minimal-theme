@@ -3,11 +3,14 @@ sectionId: privacy
 ---
 
 What we collect:
-  -Cloudflare, our CDN provider automatically collects and provides anonymized usage statistics, which may include information about DNS Queries, Traffic Statistics, TLS Version, and whether or not HTTPS was used.
-  -As a security provider, Cloudflare will also automatically collect and use additional information to ensure that visitors to rhafener.com are non-malicious. If a threat is detected and blocked, additional information will be shared with me, the site operator, to prevent future attacks. All actions are taken in accordance with their privacy policy, which we encourage you to look at. 
 
-Communications
-  -Our email services are hosted by Protonmail, a Swiss-based privacy communications provider. If you send use email from a Protonmail account, the email will automatically be encrypted using PGP. You can also manually use PGP with any rhafener.com email address. Emails to rhafener.com are encrypted and stored (with zero-access by Protonmail) in Switzerland.  
+Cloudflare, our CDN provider automatically collects and provides anonymized usage statistics, which may include information about DNS Queries, Traffic Statistics, TLS Version, and whether or not HTTPS was used.
+
+As a security provider, Cloudflare will also automatically collect and use additional information to ensure that visitors to rhafener.com are non-malicious. If a threat is detected and blocked, additional information will be shared with me, the site operator, to prevent future attacks. All actions are taken in accordance with their privacy policy, which we encourage you to look at. 
+
+Communications:
+
+Our email services are hosted by Protonmail, a Swiss-based privacy communications provider. If you send use email from a Protonmail account, the email will automatically be encrypted using PGP. You can also manually use PGP with any rhafener.com email address. Emails to rhafener.com are encrypted and stored (with zero-access by Protonmail) in Switzerland. While we make every effort to delete communications that are no longer relevant, emails may be stored by the owners of this website indefinitely.
 
 Additional Legal Information:
 
