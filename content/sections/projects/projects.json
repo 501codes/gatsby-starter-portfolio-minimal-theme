@@ -4,11 +4,11 @@
       "visible": true,
       "category": "2022-2024",
       "title": "Maine State Board of Education",
-      "description": "Details Coming Soon.",
+      "description": "Ryan Hafener serves as one of two student representatives to the Maine State Board of Education. His focus on the Board is to advocate for all students in Maine and to",
       "image": {
         "src": "../../images/headshot2.jpg",
         "alt": "Headshot",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://www.maine.gov/doe/about/leadership/stateboard"
       },
       "links": [
         {
@@ -25,7 +25,7 @@
       "visible": true,
       "category": "2021 Winner",
       "title": "Googe Play Change the Game",
-      "description": "The Google Play Change the Game Design Challenge invited youth from around the country to submit innovative mobile game ideas. I was one of around 40 winners selected for the Class of 2021, and had the opportunity to participate in a Girls Make Games mobile gaming workshop and a year-long Mentorship Program hosted by The Game Awards. Working with my mentor from the Future Class of TGA has been an incredible and eye-opening experience to learn more about a future the game industry.",
+      "description": "The Google Play Change the Game Design Challenge invited youth from around the country to submit innovative mobile game ideas and selected the top innovators in the country to join the Change the Game Class of 2021. Ryan was a part of the Class of 2021 and had the opportunity to participate in a Girls Make Games mobile gaming workshop and a year-long Mentorship Program hosted by The Game Awards. He credits working with his mentor from the Future Class of TGA as an incredible and eye-opening experience to learn more about a future the game industry.",
       "image": {
         "src": "../../images/gamechange.png",
         "alt": "Change the Game"
@@ -39,7 +39,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
