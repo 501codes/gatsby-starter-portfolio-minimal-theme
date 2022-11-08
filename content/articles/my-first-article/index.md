@@ -5,10 +5,10 @@ date: "2021-11-08"
 banner:
   src: "../../images/IMG_7573.jpg"
   alt: "NASBE"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  caption: 'Photo by <u><a href="https://www.sbe.wa.gov">Randy Spaulding</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "Advocacy"
+  - "Education"
 keywords:
   - "NASBE"
   - "Conference"
