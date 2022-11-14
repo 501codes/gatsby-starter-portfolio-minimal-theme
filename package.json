@@ -9,7 +9,7 @@
     "serve": "gatsby serve --force"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.12.1"
   },
   "dependencies": {
     "gatsby": "^4.24.8",
